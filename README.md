@@ -1,13 +1,22 @@
-# Expense_Tracker
-" A simple Python project to track expenses "
+# Expense Tracker
+
+A simple Python project to track expenses.
+
 ## Features
-- Add new expenses with category and amount
-- Display all recorded expenses
+- Add expenses with category and amount
+- Display all expenses
 - Calculate total spending
 - Save expenses to a file
+- Interactive menu system
 
-## Concepts used
+## Concepts Used
 - Lists
 - Loops
-- Calculation
 - File handling
+- User input
+
+## How to Run
+1. Clone or download the repository.
+2. Run the program:
+   ```bash
+   python expense_tracker.py
